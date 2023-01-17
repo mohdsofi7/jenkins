@@ -4,7 +4,7 @@
 # In[9]:
 
 
-list = [2,4,6,8,10]
+list = [1,3,5,7,9]
 print("square of list")
 for i in list:
     print(i**2)
